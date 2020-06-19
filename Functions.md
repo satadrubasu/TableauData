@@ -12,3 +12,6 @@
 #### Regexp_Match
 
   >  REGEXP_MATCH(string, pattern):
+  >   Regex : [B][T]\d{1,}_YOU_\S{1,}
+    
+     BT05_YOU_Scaled-123
